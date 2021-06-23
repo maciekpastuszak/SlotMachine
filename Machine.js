@@ -18,9 +18,15 @@ function rand() {
       }
       
       return (
-        <div>
-             <h1>Slot Machine!</h1>
+        <div className="fruits">
              <p>{fruits[num1]} {fruits[num2]} {fruits[num3]}</p>
+             <br></br>
+             <br></br>
+             <br></br>
+             <br></br>
+             <br></br>
+             <br></br>
+             
              <p>{msg}</p>
         </div>
 
